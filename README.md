@@ -1,7 +1,6 @@
 # Pharmacy Manegement System
 
 
-## 🦄 Product Features and Screen Shots
 
 <table>
   <tr>
@@ -94,9 +93,7 @@
  </table>
 
 
-## How to start the project 
 
-1) Downloard/clone the Contributor branch of the repository
 2) Open terminal/command prompt 
 3) cd (change directory) in to the project folder
 4) Run `npm install` in your terminal
